@@ -1,7 +1,7 @@
-def add(x, y)
+def add(x, y):
     return x + y
     
-def subtact(x, y)
+def subtact(x, y):
     return x - y
     
     
